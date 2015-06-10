@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Map\Toy_house.bmp</Source>
+      <Name>Map\Toy_house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Map\Toy_house.xnb</Output>
+      <Time>2012-05-20T17:58:44.0311629-05:00</Time>
+    </Item>
+    <Item>
+      <Source>stone.jpg</Source>
+      <Name>stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\stone.xnb</Output>
+      <Time>2012-05-20T18:33:51.4587009-05:00</Time>
+    </Item>
+    <Item>
+      <Source>displaybackground.png</Source>
+      <Name>displaybackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\displaybackground.xnb</Output>
+      <Time>2012-05-16T14:56:03.5658225-05:00</Time>
+    </Item>
+    <Item>
+      <Source>butters.png</Source>
+      <Name>butters</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\butters.xnb</Output>
+      <Time>2012-05-20T17:58:44.0381633-05:00</Time>
+    </Item>
+    <Item>
+      <Source>helpscreen.png</Source>
+      <Name>helpscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\helpscreen.xnb</Output>
+      <Time>2012-06-06T00:21:49.351158-05:00</Time>
+    </Item>
+    <Item>
+      <Source>winscreen.png</Source>
+      <Name>winscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\winscreen.xnb</Output>
+      <Time>2012-06-05T01:19:44.6246635-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\penguin.fbx</Source>
+      <Name>Models\penguin</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Models\penguin.xnb</Output>
+      <Time>2012-05-06T09:19:10.3281721-05:00</Time>
+      <Dependency>
+        <Key>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Models\penguin_0.xml</Key>
+        <Value>2012-06-06T14:22:41.0043136-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Ice Man and house.FBX</Source>
+      <Name>Models\Ice Man and house</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Models\Ice Man and house.xnb</Output>
+      <Time>2012-05-06T09:19:10.3081721-05:00</Time>
+      <Dependency>
+        <Key>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Models\Ice Man and house_0.xml</Key>
+        <Value>2012-06-06T14:22:41.6993534-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Toy_House.FBX</Source>
+      <Name>Toy_House</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Toy_House.xnb</Output>
+      <Time>2012-05-20T17:58:44.0331631-05:00</Time>
+      <Dependency>
+        <Key>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Toy_House_0.xml</Key>
+        <Value>2012-06-06T14:22:41.9443674-05:00</Value>
+      </Dependency>
+      <Request>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Toy_house_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Arial.xnb</Output>
+      <Time>2012-05-16T14:56:03.5658225-05:00</Time>
+    </Item>
+    <Item>
+      <Source>meow.wav</Source>
+      <Name>meow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\meow.xnb</Output>
+      <Time>2012-06-06T00:21:49.3431576-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ManuelMoraTetris.wav</Source>
+      <Name>ManuelMoraTetris</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\ManuelMoraTetris.xnb</Output>
+      <Time>2012-06-06T00:21:49.3401574-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animals021.wav</Source>
+      <Name>animals021</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\animals021.xnb</Output>
+      <Time>2012-06-06T13:57:48.1449678-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ManuelMora-TetrismusicA.mp3</Source>
+      <Name>ManuelMora-TetrismusicA</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\ManuelMora-TetrismusicA.xnb</Output>
+      <Extra>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\ManuelMora-TetrismusicA.wma</Extra>
+      <Time>2012-06-06T00:21:49.3481579-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\penguin.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Models\penguin_0.xml</Output>
+      <Time>2012-05-06T09:19:10.3281721-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ice Man and house.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Models\Ice Man and house_0.xml</Output>
+      <Time>2012-05-06T09:19:10.3081721-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Toy_House.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Toy_House_0.xml</Output>
+      <Time>2012-05-20T17:58:44.0331631-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\svn-google\empire-penguins\empire-penguins\Map\Toy_house.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Toy_house_0.xnb</Output>
+      <Time>2012-05-20T17:58:44.0311629-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A93BB539-B281-43AA-9EF1-5D26F647B585}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\svn-google\empire-penguins\empire-penguins\empire-penguinsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-26T22:06:05.7932054-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,16 @@
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\Map\Toy_house.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\stone.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\displaybackground.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\butters.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\helpscreen.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\Models\penguin.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\Models\Ice Man and house.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\Toy_House.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\Arial.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\Content\Toy_house_0.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\empire-penguins.exe
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Debug\empire-penguins.pdb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Debug\empire-penguins.exe
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Debug\empire-penguins.pdb

@@ -1,0 +1,22 @@
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Map\Toy_house.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\stone.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\displaybackground.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\butters.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\helpscreen.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\winscreen.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Models\penguin.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Models\Ice Man and house.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Toy_House.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Arial.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\meow.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\ManuelMoraTetris.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\animals021.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\ManuelMora-TetrismusicA.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\Toy_house_0.xnb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\Content\ManuelMora-TetrismusicA.wma
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\empire-penguins.exe
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\bin\x86\Release\empire-penguins.pdb
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\ResolveAssemblyReference.cache
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\empire-penguins.exe
+C:\svn-google\empire-penguins\empire-penguins\empire-penguins\obj\x86\Release\empire-penguins.pdb

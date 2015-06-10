@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empire-penguins", "empire-penguins\empire-penguins\empire-penguins.csproj", "{E3BE26B8-C84C-40E2-9F9B-8F8CB452E29D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "empire-penguinsContent", "empire-penguins\empire-penguinsContent\empire-penguinsContent.contentproj", "{A93BB539-B281-43AA-9EF1-5D26F647B585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3BE26B8-C84C-40E2-9F9B-8F8CB452E29D}.Debug|x86.ActiveCfg = Debug|x86
+		{E3BE26B8-C84C-40E2-9F9B-8F8CB452E29D}.Debug|x86.Build.0 = Debug|x86
+		{E3BE26B8-C84C-40E2-9F9B-8F8CB452E29D}.Release|x86.ActiveCfg = Release|x86
+		{E3BE26B8-C84C-40E2-9F9B-8F8CB452E29D}.Release|x86.Build.0 = Release|x86
+		{A93BB539-B281-43AA-9EF1-5D26F647B585}.Debug|x86.ActiveCfg = Debug|x86
+		{A93BB539-B281-43AA-9EF1-5D26F647B585}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
